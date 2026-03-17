@@ -1,0 +1,9 @@
+{
+  "name": "playwright-recording",
+  "description": "Record browser interactions as video using Playwright for demos, walkthroughs, and UI flows",
+  "version": "1.0.0",
+  "author": { "name": "Juan Marchetto" },
+  "homepage": "https://github.com/JuanMarchetto/playwright-recording-skill",
+  "repository": "https://github.com/JuanMarchetto/playwright-recording-skill",
+  "license": "MIT"
+}
